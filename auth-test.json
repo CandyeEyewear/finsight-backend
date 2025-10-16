@@ -1,0 +1,6 @@
+{
+  "client_id": "I0qg8oRhFZ18Uv7oXeY53udosv0Ql0oQ",
+  "client_secret": "M3W3mx30rqtmy4ok6GqBwgjv1yPY9CDWBQHkDgmJItesJZCCL-X3uTbLZq1fJ9DQ",
+  "audience": "https://api.finsight.salesmasterjm.com",
+  "grant_type": "client_credentials"
+}
